@@ -9,3 +9,5 @@
 #既知の不具合
 
 敵に対し特定の角度に立つと発砲されない？
+
+![unitytankss](https://github.com/kibernetikus390/Unity_Tank/assets/68312326/1191966b-5f21-4fb2-b7fc-e98504718705)
